@@ -1,6 +1,7 @@
 name: remove_background
 description: Remove background from the image
 version: 0.0.1
+homepage: https://github.com/DakshDB/remove_background
 
 environment:
   sdk: ">=2.15.1 <3.0.0"

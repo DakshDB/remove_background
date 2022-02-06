@@ -1,3 +1,4 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial Release for the Remove Background Widget. 
+* Manually erase the background.
